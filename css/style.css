@@ -1,0 +1,40 @@
+a{
+  font-size: 15px;
+  color: rgb(56, 131, 75) !important;
+}
+
+a:hover{
+  color: grey !important;
+}
+
+h1{
+  text-align: center;
+  color: rgb(56, 131, 75) !important;
+}
+
+#layout{
+  height: 100vh;
+
+}
+
+#aboutBox{
+  border: 2px solid black;
+  margin-left: -15px;
+  border-left: none;
+  padding: 2rem;
+  padding-right: 4.5rem;
+}
+
+#aboutTextBox{
+  border: 2px solid black;
+}
+
+#serviceBox{
+  border: 2px solid black;
+  width: 25%;
+}
+
+#linkBox{
+  height: 50vh;
+  background-color: rgb(56, 131, 75);
+}
